@@ -2,10 +2,7 @@
 
 ## Live Deploy
 
-
-[Heroku](https://smith-api-server.herokuapp.com/)
-![Heroku error](img/herkerror.png)
-![Heroku says deployed](img/lab4her.png)
+heroku says I have to pay to deploy
 
 ## Deployment
 How do I install the app or library?
